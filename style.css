@@ -75,7 +75,6 @@ nav{
     align-items: center;
 }
 
-
 .search input{
     background: transparent;
     width: 500px;
@@ -111,4 +110,44 @@ button{
     padding: 13px 18px;
     background: transparent;
     border-bottom: 1px solid yellow;
+}
+
+.link{
+    width: 75%;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 23px;
+    padding: 11px;
+    border-radius: 7px;
+}
+
+.link a{
+    text-decoration: none;
+    color: #000;
+}
+
+.link1{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.link1 a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 15px;
+}
+
+.link2{
+    width: 50%;
+    margin: 23%;
+    text-align: center;
+    margin-top: 40px;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.link2 a{
+    text-decoration: none;
 }
